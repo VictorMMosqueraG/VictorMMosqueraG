@@ -5,8 +5,9 @@
 </div>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/></p>
-### ⚙️ &nbsp;GitHub Analytics
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMMosqueraG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+
+<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMMosqueraG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -28,7 +29,6 @@
   </ul>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
