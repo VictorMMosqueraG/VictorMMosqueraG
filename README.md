@@ -17,13 +17,13 @@
   <h2>About me</h2>
   
   <p align="center">
-    - A passionate backend developer<br>
-    - Constantly learning new things<br>
-    - Freelance project creator<br>
-    - I would like to learn more about backend development.<br>
-    - Good teammate<br>
-    - Self-dictated<br>
-    - Committed to the projects I work on
+    A passionate backend developer<br>
+    Constantly learning new things<br>
+    Freelance project creator<br>
+    I would like to learn more about backend development.<br>
+    Good teammate<br>
+    Self-dictated<br>
+    Committed to the projects I work on
   </p>
 </div>
 
