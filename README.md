@@ -1,23 +1,27 @@
 <h1 align="center"><b>Hi , I'm Victor Mosquera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/></p>
-
 
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMMosqueraG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<div>
+  <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture>
+  
+  <h2>About me</h2>
+  
+  <p>
+    - A passionate backend developer<br>
+    - Constantly learning new things<br>
+    - Freelance project creator<br>
+    - I would like to learn more about backend development.<br>
+    - Good teammate<br>
+    - Self-dictated<br>
+    - Committed to the projects I work on
+  </p>
+</div>
 
-- A passionate backend developer
-- Constantly learning new things
-- Freelance project creator
-- I would like to learn more about backend development.
-- Good teammate
-- Self-dictated
-- Committed to the projects I work on
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
