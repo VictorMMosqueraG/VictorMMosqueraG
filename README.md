@@ -5,7 +5,8 @@
 </div>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/></p>
-
+### ⚙️ &nbsp;GitHub Analytics
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMMosqueraG&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
