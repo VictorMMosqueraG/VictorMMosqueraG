@@ -3,10 +3,6 @@
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VictorMMosqueraG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated gif"/>
 </div>
