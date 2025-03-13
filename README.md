@@ -1,46 +1,114 @@
-<h1 align="center"><b>Hi, I'm Victor Mosquera</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 🚀 Hello, I'm Victor Mosquera 👨‍💻
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🚀+Software+Engineer+|+Full-Stack+Developer;☁️+Cloud+Computing+|+DevOps+Enthusiast;💡+Tech+Innovator+|+Problem+Solver;📚+Lifelong+Learner+|+Open-Source+Contributor" alt="Typing SVG" />
+</p>
+
+🌟 I'm a **Software Engineer** with a passion for developing high-performance, scalable applications. With experience in **backend, frontend, DevOps, and cloud computing**, I specialize in designing robust systems, writing clean and maintainable code, and staying ahead of the latest tech trends.
+
+---
+
+## 🚀 Tech Stack & Skills:
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,php,python" height="80" />
+</p>
+
+### 🏗️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nestjs,laravel,angular" height="80" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker" height="80" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" height="80" />
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="80" alt="RabbitMQ" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="80" alt="JWT"/>  
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" height="80" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" height="80" alt="MariaDB" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="20" alt="Oracle Database" />
+</p>
+
+
+---
+
+## 📊 GitHub Analytics:
+
+<p align="center">
+  <!-- Resumen del perfil -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorMMosqueraG&theme=github_dark" width="70%" />
+</p>
+
+<p align="center">
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMMosqueraG&layout=compact&theme=tokyonight&langs_count=8" height="350em" />
+  
+  <!-- Trofeo: Hitos alcanzados -->
+  <img src="https://github-profile-trophy.vercel.app/?username=VictorMMosqueraG&theme=onedark&column=3&no-bg=true&no-frame=true" height="350em" />
+</p>
+
+
+---
+
+## 🔥 Current Focus & Projects:
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated gif"/>
+  <table> 
+    <tr> 
+      <td align="center"> 
+        <h3>💻 Backend & API Development</h3> 
+          <img src="https://skillicons.dev/icons?i=spring,dotnet,nestjs,laravel,angular" height="50"/> 
+          <p>Building scalable and high-performance backend systems</p> 
+      </td> <td align="center"> 
+        <h3>🏗️ Microservices & APIs</h3> 
+          <img src="https://skillicons.dev/icons?i=docker" height="50"> 
+          <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="50" alt="RabbitMQ" /> 
+          <p>Designing microservices architecture with REST & GraphQL APIs</p> 
+      </td> 
+    </tr> 
+    <tr>
+      <td align="center"> 
+        <h3>🔐 Security & Authentication</h3> 
+          <img src="https://img.shields.io/badge/OAuth-Security-blue?style=for-the-badge&logo=auth0&logoColor=white" height="30"/>
+          <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" height="50" alt="JWT"/>  
+          <p>Ensuring secure authentication and authorization</p> 
+      </td> 
+      <td align="center"> 
+        <h3>☁️ Cloud & DevOps</h3> 
+          <img src="https://skillicons.dev/icons?i=aws" height="50"/> 
+          <p>Cloud deployments, CI/CD automation, and Kubernetes orchestration</p> 
+      </td> 
+    </tr> 
+  </table> 
 </div>
-<div align="center">
 
-  
-  <h2>About me</h2>
-  
-  <p align="center">
-    A passionate backend developer<br>
-    Constantly learning new things<br>
-    Freelance project creator<br>
-    I would like to learn more about backend development.<br>
-    Good teammate<br>
-    Self-dictated<br>
-    Committed to the projects I work on
-  </p>
-</div>
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80">
+</p>
 
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw"/>
+<h2 align="center">
+  🚀✨ Let's innovate and build something amazing together! 🔥
+</h2>
 
-<div align="center">
-  <h2>Technologies That I Know👨🏻‍💻</h2>
-  
-  <p align="center"> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40">
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>  
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Innovation+%26+Creativity+💡;Collaboration+%26+Teamwork+🤝;Building+the+Future+Together+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/mosqueravictorm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
